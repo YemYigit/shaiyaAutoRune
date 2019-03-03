@@ -149,7 +149,7 @@ while (cont) {
     }
   }
 
-  if (stat1 || stat2) {
+  if (stat1 || stat2 || stat3) {
     console.log("o-o-o-o-o-o-o-o-o-o-o-o")
   }
 
